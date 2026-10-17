@@ -3,20 +3,27 @@
 Hello, I am a human and I am currently in Australia.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isan88438&theme=solarized_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isan88438&theme=solarized_dark" alt="Profile Details" width="100%" />
 </p>
 
-<table align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-rectangle?username=Isan88438&theme=solarized_dark" alt="Commit Activity" width="100%" />
+</p>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Isan88438&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+    <td align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isan88438&theme=solarized_dark" alt="Languages Per Repo" width="100%" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isan88438&layout=compact&include_all_commits=true&theme=tokyonight" alt="Top Languages" />
+    <td align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isan88438&theme=solarized_dark" alt="Most Commited Language" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isan88438&theme=solarized_dark" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isan88438&theme=github-compact" alt="Activity Graph" />
-</p>
+<!-- If you are able to read this... get some help. -->
