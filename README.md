@@ -6,8 +6,6 @@ Hello, I am a human and I am currently in Australia.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isan88438&theme=solarized_dark" alt="Profile Details" width="100%" />
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isan88438&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isan88438&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isan88438&theme=solarized_dark)
