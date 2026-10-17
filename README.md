@@ -1,23 +1,24 @@
-# 你好!
-
-Hello and welcome to my GitHub profile!
-
-There isn't really that much to see here.
-
-But here are my stats because I was just testing on how to make them show up in this README.md file.
-
-<!-- 第一行：核心统计数据和语言并排显示 -->
+<!-- 1. 动态波浪顶部横幅 -->
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+  <img src="https://vercel.app" alt="Header Banner" />
 </p>
 
-<!-- 第二行：贡献连续天数 -->
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="98%" />
-</p>
+<!-- 2. 个人简介文本 -->
+<h2>你好! 👋</h2>
+<p>Hello and welcome to my GitHub profile! There isn't really that much to see here, but here are my automated stats badges.</p>
 
-<!-- 第三行：成就奖杯\s -->
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Trophies" width="98%" />
+<hr />
+
+<!-- 3. 免配置个人数据与访客计数器 -->
+<h3>📊 账户概览</h3>
+
+<p align="left">
+  <!-- 访客计数器（追踪浏览你主页的人数） -->
+  <img src="https://komarev.com" alt="Profile Views" />
+  <br><br>
+  
+  <!-- 备用服务器提供的高速账户数据徽章 -->
+  <img src="https://shields.io" alt="Followers" />
+  &nbsp;&nbsp;
+  <img src="https://shields.io" alt="Stars" />
 </p>
