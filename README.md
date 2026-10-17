@@ -1,24 +1,17 @@
-<!-- 1. 动态波浪顶部横幅 -->
-<p align="center">
-  <img src="https://vercel.app" alt="Header Banner" />
-</p>
+# 你好!
 
-<!-- 2. 个人简介文本 -->
-<h2>你好! 👋</h2>
-<p>Hello and welcome to my GitHub profile! There isn't really that much to see here, but here are my automated stats badges.</p>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<hr />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isan88438&label=Profile%20views&color=0e75b6&style=flat" alt="isan88438" /> </p>
 
-<!-- 3. 免配置个人数据与访客计数器 -->
-<h3>📊 账户概览</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isan88438" alt="isan88438" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- 访客计数器（追踪浏览你主页的人数） -->
-  <img src="https://komarev.com" alt="Profile Views" />
-  <br><br>
-  
-  <!-- 备用服务器提供的高速账户数据徽章 -->
-  <img src="https://shields.io" alt="Followers" />
-  &nbsp;&nbsp;
-  <img src="https://shields.io" alt="Stars" />
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isan88438&show_icons=true&locale=en&layout=compact" alt="isan88438" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isan88438&show_icons=true&locale=en" alt="isan88438" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isan88438&" alt="isan88438" /></p>
