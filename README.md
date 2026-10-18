@@ -10,12 +10,4 @@ Hello, I am a human and I am currently in Australia.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isan88438&theme=solarized_dark" width="100%" alt="Most Commit Language" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isan88438&theme=solarized_dark" width="100%" alt="General Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-rectangle?username=Isan88438&theme=solarized_dark" width="100%" alt="Commit Rectangle" />
-</p>
-
 <!-- If you are able to read this... get some help. -->
